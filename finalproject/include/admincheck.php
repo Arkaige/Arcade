@@ -1,5 +1,5 @@
 <?php
-// admincheck.php - Verifica sessione e privilegi admin.
+// Verifica sessione e privilegi admin.
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
