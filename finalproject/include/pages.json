@@ -1,0 +1,29 @@
+{
+    "name": "jumpgame pages",
+    "userpages": [
+        "runner.php",
+        "slingshot.php",
+        "leaderboard.php"
+    ],
+    "adminpages": [
+        "manageUsers.php",
+        "manageScores.php",
+        "stats.php"
+    ],
+    "loggedInPages": [
+        "runner.php",
+        "slingshot.php",
+        "leaderboard.php",
+        "saveScore.php",
+        "getHistory.php"
+    ],
+    "DBPages": [
+        "runner.php",
+        "slingshot.php",
+        "leaderboard.php",
+        "saveScore.php",
+        "login.php",
+        "register.php",
+        "getHistory.php"
+    ]
+}
